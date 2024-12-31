@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="clip tv",quoc hoi
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://106135605.vws.vegacdn.vn/dDxiAkfCY1RfLsuWXTooxA/1735730430/MDM5NDc4Njg4Nw==/cliptv_live/amlst:quochoihd/playlist.m3u8
 #EXTINF:0 group-title="ihentai.li" tvg-logo="https://1.hentaiqq.com/wp-content/uploads/thumb/(Opiumud-035)-Sisters-Invitation.jpg",(Opiumud-035) Sister's Invitation 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://media.sonar-cdn.com/
